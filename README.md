@@ -6,7 +6,7 @@ React Assignment || FSJS 2
 
 🔗 SOURCE CODE: https://github.com/Durgesh4444/TODO2.0
 
-# FOOD RECPIE APP
+# FOOD RECIPE APP
 
 🔗 SOURCE CODE:https://github.com/Durgesh4444/Food-Recipe-App
 
